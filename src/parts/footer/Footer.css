@@ -1,0 +1,39 @@
+.footer {
+    background-color: #1C0D04;
+    height: 350px;
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.footer-item > img {
+    height: 60px;
+}
+
+.footer-item {
+    color: white;
+}
+
+.footer-item > h4 {
+    margin-bottom: 10px;
+}
+
+.footer-item > h5 {
+    font-weight: normal;
+    margin: 5px 5px 5px 0;
+}
+
+.social {
+    height: 40px !important;
+    margin: 5px 3px;
+}
+
+.contact {
+    height: 20px !important;
+    margin-right: 10px;
+}
+
+.flexx {
+    display: flex;
+}

@@ -15,9 +15,9 @@
 }
 
 .archived {
-    color: #FA7328;
+    color: #FA7328 !important;
 }
 
-a:visited {
+a {
     color: gray;
 }
